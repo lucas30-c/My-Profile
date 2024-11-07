@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "CombiTel",
+    "startDate": "March, 2024",
+    "endDate": "November, 2024",
+    "experiences": ["Developed frontend dashboard using React and Tailwind css"],
+    "imageSrc": "history/combitel.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "SideChef",
+    "startDate": "Nov, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": [
+      "Use Microsoft Playwright to automate testing",
+      "Write unit tests for the backend"
+    ],
+    "imageSrc": "history/sidechef.png"
+  }
+]
